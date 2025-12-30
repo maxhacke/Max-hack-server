@@ -29,7 +29,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 # --- SETTINGS ---
-BOT_TOKEN = "8046082980:AAE3Y_c6sj3Gwz_9PRwWr_zZEWpWEQMWdDA"
+BOT_TOKEN = "8322787889:AAGE1cRJhmq88VsCKq1sFEQ8OWoxhr_MFek"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 UPLOADS_DIR = os.path.join(DATA_DIR, "uploads")
